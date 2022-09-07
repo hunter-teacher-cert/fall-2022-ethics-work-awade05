@@ -1,3 +1,6 @@
+# NIM
+# Alicia Wade
+# CSCI 77800 Fall 2022
 
 #set player 
 player = 1
