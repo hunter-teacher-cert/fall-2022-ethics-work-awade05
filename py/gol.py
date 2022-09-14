@@ -2,7 +2,7 @@
 # Alicia Wade
 # CSCI 77800 Fall 2022
 # collaborators: 
-# consulted: GOL from Java, Codeacademy, stackoverflow on how to create the board without 
+# consulted: GOL from Java, Codeacademy, stackoverflow on how to create the board 
 
 import random
 #create a new board 
