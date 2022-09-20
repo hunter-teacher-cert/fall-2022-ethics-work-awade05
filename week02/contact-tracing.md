@@ -1,4 +1,4 @@
-##THE SCENARIO:
+THE SCENARIO:
 First, pretend it is early in Ronatime, and you are in the position of deciding for your school whether to roll out a contact tracing program...
 YOUR BREAKOUT MISSION:
 Compose a memo to students/staff/guardian population explaining your recent decree, taking one of these positions:
