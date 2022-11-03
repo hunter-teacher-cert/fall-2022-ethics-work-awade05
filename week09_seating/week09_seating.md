@@ -1,1 +1,6 @@
-
+<!-- Design an algorithm that would seat people more equitably.
+Write up a description of your algorithm and save it as week09_seating/seating.pdf (or week09_seating/seating.md). Make sure this description states how it should improve equity and also how it might affect other concerns.
+ -->
+ <h1>Seating Algorithm</h1>
+<p>I think that it would be logical to think that if a ticket cannot be purchased for a minor without making special arrangements with the airlines, if you are purchasing several tickets including an underage ticket then that minor should be seated with the adult ticket that was purchased. </p>
+<p>The algorithm that I would create would ensure that any minor ticket that is not purchased with accommodations be seated with the accompanying adult ticket that was required to be purchased. This is also dependent on whether or not it is a domestic or international flight. If more tickets are purchased within the same transaction then the algorithm must first determine whether the ticket is for a child who will be seated with an adult from that household. If there are no minors then the algorithm should search for seats for all available seats, it should then determine how many seats are available and what seats are needed. If there are no seats available for all parties next to each other, then the algorithm will look for any seats in front, back or side of the open seats that allows for the parties to at least be seated within the same area or in close proximity to each other.</p>
